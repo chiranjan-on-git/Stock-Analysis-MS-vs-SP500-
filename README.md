@@ -1,5 +1,7 @@
 # Stock Market Risk Analysis - Morgan Stanley
 
+<img width="1092" height="577" alt="Screenshot 2025-07-18 174632" src="https://github.com/user-attachments/assets/ae394193-1072-4e9a-83d5-eb3b99fb6bb7" />
+
 ## Overview
 This project performs a comprehensive risk analysis of **Morgan Stanley's (MS) stock performance** from **June 1, 2023, to January 1, 2024**, comparing it with the **S&P 500 index (^GSPC)**. The analysis uses historical stock data to compute various risk and return metrics.
 
